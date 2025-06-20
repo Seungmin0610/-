@@ -64,6 +64,7 @@ public class Tournament {
             case 4 -> "4강";
             case 8 -> "8강";
             case 16 -> "16강";
+            case 32 -> "32강";
             default -> currentRoundSize + "강";
         };
 
